@@ -44,7 +44,7 @@ const passerror = document.getElementById('passerror')
 form.addEventListener('submit', (e) => {
   let namemessages = [];
   let passmessages=[];
-  if (name.value === '' || name.value == null) {
+  if (name.value === '' && name.value == null) {
    namemessages.push('please enter valid Name')
   }
    
