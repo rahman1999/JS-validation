@@ -1,3 +1,3 @@
 My first git Project
 
-MEAN Stack and MEAN Stack
+MEAN Stack and MEAN
